@@ -1,4 +1,4 @@
-# cscpri
+# csc prime
 we are csc boys in this file we make 
 interesting projects
 hello world 
